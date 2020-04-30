@@ -12,9 +12,9 @@ For use with OBS.
 python3 app.py
 ```
 
- - Then visit the webpage it's hosting (usually 127.0.0.1:5000).
-
  - Add the appropriate URL to the OBS browser input (usually 127.0.0.1:5000/:id).
+
+   - If you're unsure of the URL to use you can visit the webpage (usually 127.0.0.1:5000) on your browser for a handy button to help.
 
 ## FAQ
 
